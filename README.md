@@ -112,8 +112,8 @@ Anime-Rush/
 Build the foundation of the Anime Rush companion website.
 
 * [x] Create project structure
-* [ ] Design the website
-* [ ] Build the Wiki
+* [x] Design the website
+* [] Build the Wiki
 * [ ] Create navigation system
 * [ ] Add game information
 * [ ] Implement search
